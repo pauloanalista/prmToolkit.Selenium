@@ -1,0 +1,14 @@
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\Console.Selenium.deps.json
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\Console.Selenium.runtimeconfig.json
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\Console.Selenium.runtimeconfig.dev.json
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\Console.Selenium.dll
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.csprojResolveAssemblyReference.cache
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.csproj.CoreCompileInputs.cache
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.AssemblyInfoInputs.cache
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.AssemblyInfo.cs
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\Console.Selenium.pdb
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\prmToolkit.Selenium.dll
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\bin\Debug\netcoreapp2.0\prmToolkit.Selenium.pdb
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.csproj.CopyComplete
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.dll
+C:\_Paulo\POCs\Selenium\Console.Selenium\Console.Selenium\obj\Debug\netcoreapp2.0\Console.Selenium.pdb

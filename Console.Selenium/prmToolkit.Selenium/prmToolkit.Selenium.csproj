@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Paulo Rogério Martins Marques</Authors>
+    <PackageIconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/pauloanalista/prmToolkit.NotificationPattern</PackageProjectUrl>
+    <Description>Facilita a intereção com Selenium através de comandos mais simples.
+Além de facilitar a realização de testes unitários, também é possível realizar Web Crawler ou Web Scraping</Description>
+    <PackageTags>paulorogerio, selenium, webcrawler, webscraping, web crawler, web scraping</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriverBackedSelenium" Version="3.11.2" />
+  </ItemGroup>
+
+</Project>

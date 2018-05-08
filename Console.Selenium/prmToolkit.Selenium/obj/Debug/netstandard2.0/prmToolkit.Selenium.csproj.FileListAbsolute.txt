@@ -1,0 +1,8 @@
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\bin\Debug\netstandard2.0\prmToolkit.Selenium.deps.json
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\bin\Debug\netstandard2.0\prmToolkit.Selenium.dll
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Debug\netstandard2.0\prmToolkit.Selenium.csproj.CoreCompileInputs.cache
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Debug\netstandard2.0\prmToolkit.Selenium.AssemblyInfoInputs.cache
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Debug\netstandard2.0\prmToolkit.Selenium.AssemblyInfo.cs
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\bin\Debug\netstandard2.0\prmToolkit.Selenium.pdb
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Debug\netstandard2.0\prmToolkit.Selenium.dll
+C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Debug\netstandard2.0\prmToolkit.Selenium.pdb

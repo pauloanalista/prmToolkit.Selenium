@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>prmToolkit.Selenium</id>
+    <version>1.0.0</version>
+    <authors>Paulo Rogério Martins Marques</authors>
+    <owners>Paulo Rogério Martins Marques</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/pauloanalista/prmToolkit.NotificationPattern</projectUrl>
+    <iconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</iconUrl>
+    <description>Facilita a intereção com Selenium através de comandos mais simples.
+Além de facilitar a realização de testes unitários, também é possível realizar Web Crawler ou Web Scraping</description>
+    <tags>paulorogerio, selenium, webcrawler, webscraping, web crawler, web scraping</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Selenium.WebDriverBackedSelenium" version="3.11.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\bin\Debug\netstandard2.0\prmToolkit.Selenium.dll" target="lib\netstandard2.0\prmToolkit.Selenium.dll" />
+  </files>
+</package>
