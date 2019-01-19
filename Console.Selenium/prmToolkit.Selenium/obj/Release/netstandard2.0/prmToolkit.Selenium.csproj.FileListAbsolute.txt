@@ -6,3 +6,11 @@ C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstan
 C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.AssemblyInfo.cs
 C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.dll
 C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.pdb
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.csproj.CoreCompileInputs.cache
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\bin\Release\netstandard2.0\prmToolkit.Selenium.deps.json
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\bin\Release\netstandard2.0\prmToolkit.Selenium.dll
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\bin\Release\netstandard2.0\prmToolkit.Selenium.pdb
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.AssemblyInfoInputs.cache
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.AssemblyInfo.cs
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.dll
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\obj\Release\netstandard2.0\prmToolkit.Selenium.pdb

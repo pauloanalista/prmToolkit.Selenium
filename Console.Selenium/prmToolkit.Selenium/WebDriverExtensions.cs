@@ -36,5 +36,36 @@ namespace prmToolkit.Selenium
             else
                 webElement.SendKeys(Keys.Enter);
         }
+
+        /// <summary>
+        /// Retorna o elemento pesquisado, caso não encontre, retorna o valor nulo.
+        /// </summary>
+        public static IWebElement FindElementOrDefault(this IWebDriver webDriver, By by)
+        {
+            try
+            {
+                return webDriver.FindElement(by);
+            }
+            catch
+            {
+                return null;
+            }
+        }
+        /// <summary>
+        /// Verifica se o elemento foi encontrado
+        /// </summary>
+        public static bool HasElement(this IWebDriver webDriver, By by)
+        {
+            try
+            {
+                var element = webDriver.FindElement(by);
+                
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
     }
 }

@@ -9,6 +9,13 @@
 Além de facilitar a realização de testes unitários, também é possível realizar Web Crawler ou Web Scraping</Description>
     <PackageTags>paulorogerio, selenium, webcrawler, webscraping, web crawler, web scraping</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>Foi adicionado 2 metodos
+- HasElement -&gt; Verifica se o elemento existe
+- FindElementOrDefault -&gt; Caso não encontre o elemento retorna null ao invés de exception
+
+Link do curso de desenvolvimento de Bots
+https://www.udemy.com/crie-bot-atraves-de-web-scraping-crawling-com-c-e-selenium/learn/v4/?couponCode=PROMOCAO_RELAMPAGO</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

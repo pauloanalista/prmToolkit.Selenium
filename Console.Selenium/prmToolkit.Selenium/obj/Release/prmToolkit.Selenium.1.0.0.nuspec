@@ -18,6 +18,6 @@ Além de facilitar a realização de testes unitários, também é possível rea
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\_Paulo\POCs\Selenium\Console.Selenium\prmToolkit.Selenium\bin\Release\netstandard2.0\prmToolkit.Selenium.dll" target="lib\netstandard2.0\prmToolkit.Selenium.dll" />
+    <file src="C:\_dev\git\prmToolkit.Selenium\Console.Selenium\prmToolkit.Selenium\bin\Release\netstandard2.0\prmToolkit.Selenium.dll" target="lib\netstandard2.0\prmToolkit.Selenium.dll" />
   </files>
 </package>

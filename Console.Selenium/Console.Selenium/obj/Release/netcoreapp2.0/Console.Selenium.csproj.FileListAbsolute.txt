@@ -1,0 +1,14 @@
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\Console.Selenium.deps.json
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\Console.Selenium.runtimeconfig.json
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\Console.Selenium.runtimeconfig.dev.json
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\Console.Selenium.dll
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\Console.Selenium.pdb
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\prmToolkit.Selenium.dll
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\prmToolkit.Selenium.pdb
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.csprojResolveAssemblyReference.cache
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.csproj.CoreCompileInputs.cache
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.AssemblyInfoInputs.cache
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.AssemblyInfo.cs
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.csproj.CopyComplete
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.dll
+C:\_dev\git\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\Console.Selenium.pdb

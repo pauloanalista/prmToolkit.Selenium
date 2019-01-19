@@ -852,7 +852,7 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "prmToolkit.Selenium/1.0.0": {
+      "prmToolkit.Selenium/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -869,7 +869,7 @@
   },
   "libraries": {
     "Microsoft.CSharp/4.3.0": {
-      "sha512": "+j5cE7Jk4EJigdKs+Fjpyn2FBUO+f1T7Uy9sUHWXLFSj0BIjwFKxlN4n8VMgkYgfF7rbIkjbY1yDJJzDfVx+Jw==",
+      "sha512": "P+MBhIM0YX+JqROuf7i306ZLJEjQYA9uUyRDE+OqwUI5sh41e2ZbPQV3LfAPh+29cmceE1pUffXsGfR4eMY3KA==",
       "type": "package",
       "path": "microsoft.csharp/4.3.0",
       "files": [
@@ -1396,7 +1396,7 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "files": [
@@ -1534,7 +1534,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "klv+SrBteP8GWJAbJwcJtJhe5ydXZNjvf0Wdb64CYD64IsuDeg208cCyEUYWMpsklFrTAx9oQ98O7GqADb2q1A==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -1571,7 +1571,7 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+      "sha512": "SkIyd2lg5vKULXqbU3WzBufIGTgZ1D05lrGdf+5/UP45/Kfaliz3czuTvsjBbMuqtzmvyYguO7x72SL7wCp6Iw==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
@@ -1608,7 +1608,7 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "zVSFjiN8VZFbHgn0lwyyHXY7LEE7T2naylKJMXyS2oTFCvo9g2v+Cg/h86SRlCTvqZR1SQyybMeGuqdo+ig4nA==",
+      "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
@@ -1665,7 +1665,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "VE3x3EvVdl/ODD2/6S220Kr0xnjDdkrREiSlC1JoBN9HKcbq6ixblV2BExTCSP3hT5Orncv5AEsko0TkCkuBwg==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -1702,7 +1702,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "YjwAoHS8scbi5/IAcsPGFD3VAYkbvVb2GfOxIBRKjUIJhyQLoypcfOuZYkDiYxgfkt/rsmXd/mtONlqIV9LdYg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -1819,7 +1819,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.3.0": {
-      "sha512": "mdIjnUvuMzP2HzLZpgbQ+olOpKRL8xu77v11hzq47IxfJ0Z7grZh8wtT8aGHusMAb1UZZHNjPzCwEUpWc8ZFxw==",
+      "sha512": "SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
       "type": "package",
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
@@ -1954,7 +1954,7 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
-      "sha512": "v8KiU8gS7SM7L5GTr73jF3GMKl+OGD75tWphr3kzjoNncpMhnzvSgnIMTIl7WuNCSlVsUomTd0ZTQVqOUu7YpQ==",
+      "sha512": "FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
       "type": "package",
       "path": "system.globalization.extensions/4.3.0",
       "files": [
@@ -2444,7 +2444,7 @@
       ]
     },
     "System.Reflection.Emit/4.3.0": {
-      "sha512": "oKiEQfEcG+JSqBShqM8dE9NZ54K5e++FBdCwwwC4M1IEVoAWUQBG40hjHEXTfkwu4vIvNjKizd9S3BvbiCljlA==",
+      "sha512": "228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
       "type": "package",
       "path": "system.reflection.emit/4.3.0",
       "files": [
@@ -2478,7 +2478,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
-      "sha512": "EdFsO4+W+xZ1jG7dTqQsahWXNMw4g+6M762Gq3tpGSEDnyXbMDdeHh5O4TL+mzGofPj52Nmw9Uk9bgRgkr4jMg==",
+      "sha512": "59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
@@ -2521,7 +2521,7 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "p6+IJRfOHv/owWcPFIYYOD+H1Zzi+alJB8XUQuuY8evri8DM3tiK5KSdPUYkRter8wiNqx46q+Uky2La6mc48w==",
+      "sha512": "oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
@@ -2674,7 +2674,7 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.3.0": {
-      "sha512": "g8szHFuNbvxT+yWPmSLFmoa6kOVKyyQjTEvALQ1UQmH7SGIwEr8m7QEXtAVoZV4P/tMzPfQ9UiyIofGjxUpfzg==",
+      "sha512": "7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
@@ -3104,7 +3104,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
+      "sha512": "SMXQrKQKHyIN/SKYjLiXaQwGIDzLks+hRN2Sm7c0OgAHqY2ewIvtV23nOOuTsZTOMonDm79ulJYNEiSUqNIawA==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
@@ -3524,7 +3524,7 @@
       ]
     },
     "System.Threading.Tasks.Extensions/4.3.0": {
-      "sha512": "IKbV1n/946S3Zx404QgLc52JY5vmc7bz35ql7Ion51tMtjzI6R1WGRAUIadBhRIsG260SBsQbcXgerD/TDbF5w==",
+      "sha512": "npvJkVKl5rKXrtl1Kkm6OhOUaYGEiF9wFbppFRWSMoApKzt2PiPHT2Bb8a5sAWxprvdOAtvaARS9QYMznEUtug==",
       "type": "package",
       "path": "system.threading.tasks.extensions/4.3.0",
       "files": [
@@ -3645,7 +3645,7 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "prmToolkit.Selenium/1.0.0": {
+    "prmToolkit.Selenium/1.0.1": {
       "type": "project",
       "path": "../prmToolkit.Selenium/prmToolkit.Selenium.csproj",
       "msbuildProject": "../prmToolkit.Selenium/prmToolkit.Selenium.csproj"
@@ -3656,27 +3656,27 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "Selenium.Chrome.WebDriver >= 2.38.0",
       "Selenium.WebDriver >= 3.11.2",
-      "prmToolkit.Selenium >= 1.0.0"
+      "prmToolkit.Selenium >= 1.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paulo.TRACKBUS\\.nuget\\packages\\": {},
+    "C:\\Users\\Paulo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Paulo\\POCs\\Selenium\\Console.Selenium\\Console.Selenium\\Console.Selenium.csproj",
+      "projectUniqueName": "C:\\_dev\\git\\prmToolkit.Selenium\\Console.Selenium\\Console.Selenium\\Console.Selenium.csproj",
       "projectName": "Console.Selenium",
-      "projectPath": "C:\\_Paulo\\POCs\\Selenium\\Console.Selenium\\Console.Selenium\\Console.Selenium.csproj",
-      "packagesPath": "C:\\Users\\paulo.TRACKBUS\\.nuget\\packages\\",
-      "outputPath": "C:\\_Paulo\\POCs\\Selenium\\Console.Selenium\\Console.Selenium\\obj\\",
+      "projectPath": "C:\\_dev\\git\\prmToolkit.Selenium\\Console.Selenium\\Console.Selenium\\Console.Selenium.csproj",
+      "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+      "outputPath": "C:\\_dev\\git\\prmToolkit.Selenium\\Console.Selenium\\Console.Selenium\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paulo.TRACKBUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3684,14 +3684,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.samich.com.br:7070/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\_Paulo\\POCs\\Selenium\\Console.Selenium\\prmToolkit.Selenium\\prmToolkit.Selenium.csproj": {
-              "projectPath": "C:\\_Paulo\\POCs\\Selenium\\Console.Selenium\\prmToolkit.Selenium\\prmToolkit.Selenium.csproj"
+            "C:\\_dev\\git\\prmToolkit.Selenium\\Console.Selenium\\prmToolkit.Selenium\\prmToolkit.Selenium.csproj": {
+              "projectPath": "C:\\_dev\\git\\prmToolkit.Selenium\\Console.Selenium\\prmToolkit.Selenium\\prmToolkit.Selenium.csproj"
             }
           }
         }
@@ -3706,6 +3705,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
