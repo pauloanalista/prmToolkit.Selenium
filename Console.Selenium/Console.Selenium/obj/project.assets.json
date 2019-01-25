@@ -852,7 +852,7 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "prmToolkit.Selenium/1.0.1": {
+      "prmToolkit.Selenium/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -3645,7 +3645,7 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "prmToolkit.Selenium/1.0.1": {
+    "prmToolkit.Selenium/1.0.2": {
       "type": "project",
       "path": "../prmToolkit.Selenium/prmToolkit.Selenium.csproj",
       "msbuildProject": "../prmToolkit.Selenium/prmToolkit.Selenium.csproj"
@@ -3656,7 +3656,7 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "Selenium.Chrome.WebDriver >= 2.38.0",
       "Selenium.WebDriver >= 3.11.2",
-      "prmToolkit.Selenium >= 1.0.1"
+      "prmToolkit.Selenium >= 1.0.2"
     ]
   },
   "packageFolders": {

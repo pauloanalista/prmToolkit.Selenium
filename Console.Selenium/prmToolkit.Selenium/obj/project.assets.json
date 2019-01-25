@@ -3144,7 +3144,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\_dev\\git\\prmToolkit.Selenium\\Console.Selenium\\prmToolkit.Selenium\\prmToolkit.Selenium.csproj",
       "projectName": "prmToolkit.Selenium",

@@ -10,7 +10,7 @@
         "dependencies": {
           "Selenium.Chrome.WebDriver": "2.38.0",
           "Selenium.WebDriver": "3.11.2",
-          "prmToolkit.Selenium": "1.0.0"
+          "prmToolkit.Selenium": "1.0.1"
         },
         "runtime": {
           "Console.Selenium.dll": {}
@@ -415,7 +415,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "prmToolkit.Selenium/1.0.0": {
+      "prmToolkit.Selenium/1.0.1": {
         "dependencies": {
           "Selenium.WebDriverBackedSelenium": "3.11.2"
         },
@@ -739,7 +739,7 @@
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
-    "prmToolkit.Selenium/1.0.0": {
+    "prmToolkit.Selenium/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

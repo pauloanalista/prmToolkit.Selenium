@@ -11,12 +11,14 @@ namespace Console.Selenium
     {
         static void Main(string[] args)
         {
-            IWebDriver webDriver = WebDriverFactory.CreateWebDriver(Browser.Chrome, @"C:\_Paulo\POCs\Selenium\driver");
+            IWebDriver webDriver = WebDriverFactory.CreateWebDriver(Browser.Chrome, @"D:\_Projetos\CursoWebScrapingSelenium\Bot\Driver");
 
             webDriver.LoadPage(TimeSpan.FromSeconds(10), @"https://www.google.com");
 
             webDriver.SetText(By.Name("q"), "ilovecode.com.br");
             webDriver.Submit(By.Name("btnK"));
+
+            webDriver.WaitFindElement(By.Id("teste"));
 
             Thread.Sleep(20000);
 

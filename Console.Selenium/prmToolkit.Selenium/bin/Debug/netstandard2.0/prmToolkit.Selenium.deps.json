@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "prmToolkit.Selenium/1.0.0": {
+      "prmToolkit.Selenium/1.0.1": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Selenium.WebDriverBackedSelenium": "3.11.2"
@@ -568,7 +568,7 @@
     }
   },
   "libraries": {
-    "prmToolkit.Selenium/1.0.0": {
+    "prmToolkit.Selenium/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
