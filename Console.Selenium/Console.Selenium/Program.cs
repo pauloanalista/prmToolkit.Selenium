@@ -20,6 +20,8 @@ namespace Console.Selenium
 
             webDriver.WaitFindElement(By.Id("teste"));
 
+            //webDriver.SendKeys(By.Id(""), Keys.End);
+            
             Thread.Sleep(20000);
 
             webDriver.Close();

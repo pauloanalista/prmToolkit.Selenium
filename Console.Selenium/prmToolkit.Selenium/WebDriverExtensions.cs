@@ -105,5 +105,47 @@ namespace prmToolkit.Selenium
 
             return webElement;
         }
+
+        public static object ExecuteJavaScript(this IWebDriver driver, string scriptJs, params object[] args)
+        {
+            return ((IJavaScriptExecutor)driver).ExecuteScript(scriptJs, args);
+
+        }
+
+        public static void Click(this IWebDriver webDriver, By by)
+        {
+            try
+            {
+                webDriver.FindElement(by).Click();
+            }
+            catch
+            {
+                
+            }
+        }
+
+        public static void Clear(this IWebDriver webDriver, By by)
+        {
+            try
+            {
+                webDriver.FindElement(by).Clear();
+            }
+            catch
+            {
+
+            }
+        }
+
+        public static void SendKeys(this IWebDriver webDriver, By by, string text)
+        {
+            try
+            {
+                webDriver.FindElement(by).SendKeys(text);
+            }
+            catch
+            {
+
+            }
+        }
     }
 }

@@ -852,7 +852,7 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "prmToolkit.Selenium/1.0.2": {
+      "prmToolkit.Selenium/1.0.3": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1240,10 +1240,12 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "sha512": "5BdAWDgMNwf90L0J+C/eh6kfHDa37ViL1cBL1nv5zPA4TB2cGV51YiQyvzCEy9DBE0LwwMI4+PkUpIekKyocSA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -3645,7 +3647,7 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "prmToolkit.Selenium/1.0.2": {
+    "prmToolkit.Selenium/1.0.3": {
       "type": "project",
       "path": "../prmToolkit.Selenium/prmToolkit.Selenium.csproj",
       "msbuildProject": "../prmToolkit.Selenium/prmToolkit.Selenium.csproj"
@@ -3656,7 +3658,7 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "Selenium.Chrome.WebDriver >= 2.38.0",
       "Selenium.WebDriver >= 3.11.2",
-      "prmToolkit.Selenium >= 1.0.2"
+      "prmToolkit.Selenium >= 1.0.3"
     ]
   },
   "packageFolders": {
@@ -3705,7 +3707,6 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
