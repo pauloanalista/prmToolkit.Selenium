@@ -18,7 +18,7 @@ https://www.udemy.com/crie-bot-atraves-de-web-scraping-crawling-com-c-e-selenium
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Selenium.WebDriverBackedSelenium" Version="3.11.2" />
+    <PackageReference Include="Selenium.WebDriverBackedSelenium" Version="3.141.0" />
   </ItemGroup>
 
 </Project>

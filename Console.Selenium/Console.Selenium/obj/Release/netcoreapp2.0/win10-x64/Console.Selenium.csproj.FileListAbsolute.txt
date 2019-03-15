@@ -1,0 +1,17 @@
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\Console.Selenium.exe
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\Console.Selenium.deps.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\Console.Selenium.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\Console.Selenium.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\Console.Selenium.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\Console.Selenium.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\prmToolkit.Selenium.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\bin\Release\netcoreapp2.0\win10-x64\prmToolkit.Selenium.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.csproj.CopyComplete
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Console.Selenium\Console.Selenium\obj\Release\netcoreapp2.0\win10-x64\Console.Selenium.pdb

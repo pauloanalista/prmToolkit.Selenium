@@ -11,7 +11,7 @@ namespace Console.Selenium
     {
         static void Main(string[] args)
         {
-            IWebDriver webDriver = WebDriverFactory.CreateWebDriver(Browser.Chrome, @"D:\_Projetos\CursoWebScrapingSelenium\Bot\Driver");
+            IWebDriver webDriver = WebDriverFactory.CreateWebDriver(Browser.Chrome, @"C:\Users\Paulo\Documents\GitHub\prmToolkit.Selenium\Driver", true, true);
 
             webDriver.LoadPage(TimeSpan.FromSeconds(10), @"https://www.google.com");
 
